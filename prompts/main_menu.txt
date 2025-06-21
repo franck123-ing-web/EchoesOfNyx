@@ -1,0 +1,1 @@
+/imagine prompt: Main menu screen for "Echoes of Nyx", dark spatial background, logo at top center, menu buttons (New Game, Continue, Quit) with holographic purple-blue UI style, sci-fi ambience --v 5
