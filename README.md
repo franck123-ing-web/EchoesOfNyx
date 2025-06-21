@@ -1,6 +1,6 @@
 # Echoes of Nyx
 
-**Par : Franck Joel et Socrate Etame**
+**Par : Franck Joel**
 
 ## 🎮 Présentation du Jeu
 
